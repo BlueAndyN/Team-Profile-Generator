@@ -3,7 +3,7 @@
         "inquirer": "^8.2.3",
         "jest": "^28.0.1"
     },
-    "name": "team-profile-gen",
+    "name": "TeamProfileGenerator_AN",
     "description": "",
     "version": "1.0.0",
     "main": "index.js",
