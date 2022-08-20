@@ -3,7 +3,7 @@
         "inquirer": "^8.2.3",
         "jest": "^28.0.1"
     },
-    "name": "TeamProfileGenerator_AN",
+    "name": "Team-Profile-Generator",
     "description": "",
     "version": "1.0.0",
     "main": "index.js",
@@ -16,12 +16,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BlueAndyN/TeamProfileGenerator_AN.git"
+        "url": "git+https://github.com/BlueAndyN/Team-Profile-Generator.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/BlueAndyN/TeamProfileGenerator_AN/issues"
+        "url": "https://github.com/BlueAndyN/Team-Profile-Generator/issues"
     },
-    "homepage": "https://github.com/BlueAndyN/TeamProfileGenerator_AN"
+    "homepage": "https://github.com/BlueAndyN/Team-Profile-Generator"
 }
