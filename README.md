@@ -7,7 +7,12 @@ AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 ```
+
+This project uses node and JavaScript to generate an HTML page displaying a team profile. When prompted for information, such as employee name and role, the information is added to sections of the HTML with their corresponding information. Links are provided according to the information received for email websites and/or GitHub.
 ## Demo page
+
+![Screenshots](/Assets/Project,png)
+
 
 ## License
 
