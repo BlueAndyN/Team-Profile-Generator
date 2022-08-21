@@ -228,4 +228,4 @@ const buildTeam = () => {
     fs.writeFileSync(outputPath,deploySite(teamMembers), "utf-8");
 }
 
-promptManager
+promptManager();
