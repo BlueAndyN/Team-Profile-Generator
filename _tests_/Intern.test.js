@@ -17,7 +17,7 @@ test('get the id from the getID method', () => {
 });
 
 test('get the email from the getEmail method', () => {
-    expect(intern.getEmail()).toBe('ashyashleyD@yahoo.comm');
+    expect(intern.getEmail()).toBe('ashyashleyD@yahoo.com');
 });
 
 test('get the school from the getSchool method', () => {
