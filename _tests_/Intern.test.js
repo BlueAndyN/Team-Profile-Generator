@@ -13,7 +13,7 @@ test('get the name from the getName method', () => {
 });
 
 test('get the id from the getID method', () => {
-    expect(intern.getID()).toBe('10652');
+    expect(intern.getId()).toBe('10652');
 });
 
 test('get the email from the getEmail method', () => {
